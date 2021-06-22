@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">과학 뉴스 모음</string>
+    <string name="title_activity_main">과학 뉴스 모음</string>
+    <string name="package_name">com.nwlee.scinews</string>
+    <string name="custom_url_scheme">com.nwlee.scinews</string>
+</resources>
